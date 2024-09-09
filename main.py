@@ -4,8 +4,8 @@ def restar(x, y):
 def multiplicacion(x, y): 
     return x * y
 
-respuesta=sumar(2,3)
+respuesta=multiplicacion(2,3)
 print(respuesta)
 
-resultado=sumar(8,2)
+resultado=restar(8,2)
 print(resultado)
