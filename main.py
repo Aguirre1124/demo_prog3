@@ -8,4 +8,4 @@ respuesta=multiplicacion(2,3)
 print(respuesta)
 
 resultado=restar(8,2)
-print(resultado)
+print("CAMBIO" + str(resultado))
