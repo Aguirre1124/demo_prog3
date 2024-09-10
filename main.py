@@ -1,5 +1,5 @@
 def restar(x, y):
-    return x - y
+    return x + y
 
 def multiplicacion(x, y): 
     return x * y
@@ -9,6 +9,9 @@ def divisio(x, y):
         return "No se puede dividir por 0"
     else:
         return x / y
+    
+def potencia(x, y):
+    return x ** y
 
 respuesta=multiplicacion(2,3)
 print(respuesta)
